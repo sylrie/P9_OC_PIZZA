@@ -7,9 +7,10 @@
   <img width=50% src="https://github.com/sylrie/P9_OC_Pizza/blob/master/img/title.png">
 </p>
 
+## DOCUMENTATION
 <p align="center">
   Documentation complète du projet<br>
-  <strong>Système de gestion de Pizzeria</strong><br>
+  **Système de gestion de Pizzeria**</strong><br>
   pour le groupe<br>
   <strong>OC Pizza OC</strong> 
 </p>
