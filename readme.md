@@ -13,3 +13,7 @@
   pour le groupe<br>
   <strong>OC Pizza OC</strong> 
 </p>
+
+<p align="center">
+  <img width=30% src="https://github.com/sylrie/P9_OC_Pizza/blob/master/img/OC logo.png">
+</p>
