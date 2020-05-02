@@ -1,6 +1,4 @@
 > Système de gestion de pizzeria - OC Pizza <br>
-
-![Status](https://img.shields.io/badge/Status-En cours-green.svg)
 ![Version-1](https://img.shields.io/badge/Version-1-blue.svg)
 
 <p align="center">
@@ -10,7 +8,7 @@
 ## DOCUMENTATION
 <p align="center">
   Documentation complète du projet<br>
-  **Système de gestion de Pizzeria**</strong><br>
+  </strong>Système de gestion de Pizzeria</strong><br>
   pour le groupe<br>
   <strong>OC Pizza OC</strong> 
 </p>
